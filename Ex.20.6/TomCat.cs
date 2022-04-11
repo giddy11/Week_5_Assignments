@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ex._20._6
 {
-     public class TomCat : Animal
+     public class TomCat : Cat
     {
-        public override void MakeSound()
-        {
-            Console.WriteLine("MEOW!!  MEOW!! MEOW!!  MEOW!!");
-        }
+        
     }
 }
